@@ -1,3 +1,12 @@
+/**
+ * @author: Prithviraj Deshmane
+ * 
+ * Sort Inversions: Count the number of inversions needed for sorting a large input. 
+ * 
+ * This problem is solved by piggybacking on the Merge Sort technique to achieve 
+ * a complexity of O(n*log(n)) as opposed to the O(n^2) achieved through Brute Force.
+ */
+
 import java.io.File;
 import java.util.Scanner;
 
